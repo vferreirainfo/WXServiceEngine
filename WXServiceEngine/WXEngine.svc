@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WXServiceEngine.WXEngine" CodeBehind="WXEngine.svc.cs" %>
